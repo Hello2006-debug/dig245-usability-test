@@ -1,2 +1,9 @@
-
-/* css */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+*{
+    font-family: "Roboto Mono", monospace;
+}
+body{
+    background-image: linear-gradient(rgba(16, 73,17, 0.6), rgba(16, 73,17, 0.5)),url('/assets/img/CampusScenes_04 (1).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
